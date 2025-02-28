@@ -87,7 +87,7 @@ Trophy: 1</text>
       <text>Defensive (If this is your chosen equipment, if you would take an opposing equipment as a trophy, instead that card goes into its owner’s heap.)
 Power: 0
 Stealth: 0
-Reach: 3
+Reach: 4
 Trophy: 1</text>
     </card>
     <card>
@@ -103,7 +103,7 @@ Trophy: 1</text>
       <tablerow>1</tablerow>
       <text>Defensive (If this is your chosen equipment, if you would take an opposing equipment as a trophy, instead that card goes into its owner’s heap.)
 Power: 0
-Stealth: 3
+Stealth: 4
 Reach: 0
 Trophy: 1</text>
     </card>
@@ -119,7 +119,7 @@ Trophy: 1</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Defensive (If this is your chosen equipment, if you would take an opposing equipment as a trophy, instead that card goes into its owner’s heap.)
-Power: 3
+Power: 4
 Stealth: 0
 Reach: 0
 Trophy: 1</text>
@@ -311,7 +311,7 @@ Trophy: 0</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Put this into your opponent’s collection as a trophy.
-If this is a trophy, its controller’s equipment get -2 power.</text>
+If this is a trophy, its controller’s equipment get -1 power.</text>
     </card>
     <card>
       <name>Miniature Army</name>
@@ -337,7 +337,7 @@ If this is a trophy, its controller’s equipment get -2 power.</text>
         <maintype>Tactic</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Your opponent’s stealth and reach get -1 this combat.</text>
+      <text>Your opponent’s equipment’s stealth and reach get -1 this combat.</text>
     </card>
     <card>
       <name>Lance</name>
@@ -742,6 +742,19 @@ Trophy: 2</text>
 Stealth: 4
 Reach: 0
 Trophy: 3</text>
+    </card>
+    <card>
+      <name>Totally Legal Substance</name>
+      <set rarity="common">SDB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Your equipment gets +4 power this turn. Set Totally Legal Substance aside. Next turn, discard it and your equipment gets -1 to all stats that turn.</text>
     </card>
 
     <!-->Tokens</-->
